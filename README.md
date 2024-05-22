@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # connectify
+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
